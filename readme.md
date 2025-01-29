@@ -1,7 +1,5 @@
 ![Header](./docs/header.png)
 
-## About
-
 # BMI Calculator - Python Project #1
 
 This project builds a simple **web application** for calculating Body Mass Index (BMI) using **Python**, **Pandas**, and **Streamlit**.
@@ -36,10 +34,6 @@ This project builds a simple **web application** for calculating Body Mass Index
 4. Output: The application displays the user's height, weight, calculated BMI, and the corresponding weight category.
 5. Reference table: A table of BMI categories is displayed for further reference.
 
-## Contribute
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue on GitHub.
-    
 ## Project Organization
 
 The directory structure of IndoMarket project looks like this:
@@ -51,5 +45,7 @@ The directory structure of IndoMarket project looks like this:
     ├── python_script.py        <- Code to run application without GUI
     │
     ├── documentations.ipynb    <- Detailed code and wxplanations of every syntax                     
-    │
-    └── requirements.txt        <- The requirements file for reproducing the analysis environment, e.g. generated with `pip freeze > requirements.txt`
+
+## Contribute
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue on GitHub.
