@@ -2,7 +2,10 @@
 
 # BMI Calculator - Python Project #1
 
-This project builds a simple **web application** for calculating Body Mass Index (BMI) using **Python**, **Pandas**, and **Streamlit**.
+This project builds a simple **web application** for calculating Body Mass Index (BMI) using: 
+- **Python** : create application syntax 
+- **Pandas** : create information table 
+- **Streamlit** : create *web application* in the format of GUI-friendly
 
 ## Features
 
